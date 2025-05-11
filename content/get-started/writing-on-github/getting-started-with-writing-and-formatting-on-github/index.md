@@ -1,4 +1,4 @@
----
+## introduction to writting on GitHub ---
 title: Getting started with writing and formatting on GitHub
 redirect_from:
   - /articles/markdown-basics
@@ -15,5 +15,7 @@ children:
   - /about-writing-and-formatting-on-github
   - /basic-writing-and-formatting-syntax
 shortTitle: Start writing on GitHub
----
+
+# hello world
+
 
